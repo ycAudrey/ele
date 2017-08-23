@@ -1,4 +1,6 @@
 # ele
+项目实训时，小组制作的，本人负责“登录页面”、“首页”、“商家列表“，内容样式参考原网址: https://github.com/bailicangdu/node-elm 
+<br/>
 一、 首页和商家列表使用了开放接口，直接在github上演示会有跨域问题，数据无法显示，其他页面使用静态JSON文件，无影响
 <br/>
 二、 用到的技术有vue.js 2.0、webpack、 vue-router、ES6、npm
